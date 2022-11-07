@@ -1,0 +1,94 @@
+{
+    "id": 0,
+    "title": "Event123",
+    "createdBy": 0,
+    "description": "test",
+    "type": "Prosjekt",
+    "subType": "Baderomsrenovering",
+    "dateStart": "2022-05-01T00:00:00",
+    "dateEnd": "2022-05-01T00:00:00",
+    "companies": [],
+    "gallery": [
+      {
+        "id": 0,
+        "url": "https://boligmappa-images.com/0",
+        "uploadedBy": "Kari Nordmann",
+        "position": 1
+      }
+    ],
+    "documents": [
+      {
+        "id": 0,
+        "link": "https://test-boligeier-api.boligmappa.no/v2/documents/0",
+        "title": "Sluttkontroll",
+        "createdDate": "2020-11-16T05:28:36.89",
+        "updatedDate": "2022-01-05T15:15:18.943",
+        "ownedByName": "Kari Nordmann",
+        "url": {
+          "rel": "Download",
+          "link": "https://test-boligeier-api.boligmappa.no/v2/documents/0",
+          "fileType": "pdf"
+        },
+        "fileType": "pdf",
+        "fileName": "test.pdf",
+        "documentType": "Sluttkontroll",
+        "companyId": 0,
+        "companyName": "Boligmappa",
+        "ownedById": 0,
+        "professionType": "Ikke spesifisert",
+        "downloadRestricted": false
+      },
+      {
+        "id": 0,
+        "link": "https://test-boligeier-api.boligmappa.no/v2/documents/290829",
+        "title": "Quick Checking.png",
+        "createdDate": "2022-08-10T04:11:05.997",
+        "updatedDate": "2022-08-10T04:11:05.997",
+        "ownedByName": "Kari Nordmann",
+        "url": {
+          "rel": "Download",
+          "link": "https://test-boligeier-api.boligmappa.no/v2/documents/download/0",
+          "fileType": "png"
+        },
+        "fileType": "png",
+        "fileName": "test.png",
+        "documentType": "Alarmanlegg",
+        "companyId": 0,
+        "companyName": "Boligmappa",
+        "ownedById": 0,
+        "professionType": "Ikke spesifisert",
+        "downloadRestricted": false
+      },
+      {
+        "id": 0,
+        "link": "https://test-boligeier-api.boligmappa.no/v2/documents/290831",
+        "title": "test.png",
+        "createdDate": "2022-08-10T06:08:25.03",
+        "updatedDate": "2022-08-10T06:08:25.03",
+        "ownedByName": "Kari Nordmann",
+        "url": {
+          "rel": "Download",
+          "link": "https://test-boligeier-api.boligmappa.no/v2/documents/download/0",
+          "fileType": "png"
+        },
+        "fileType": "png",
+        "fileName": "test.png",
+        "documentType": "Alarmanlegg",
+        "companyId": 0,
+        "companyName": "Boligmappa",
+        "ownedById": 0,
+        "professionType": "Ikke spesifisert",
+        "downloadRestricted": false
+      }
+    ],
+    "rooms": [
+      {
+        "id": 0,
+        "link": "https://test-boligeier-api.boligmappa.no/v2/rooms/0",
+        "title": "Bad",
+        "image": "https://boligmappa-documents.com/RoomImages/0"
+      }
+    ],
+    "totalValue": null
+  }
+  
